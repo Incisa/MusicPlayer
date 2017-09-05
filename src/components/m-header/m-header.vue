@@ -16,7 +16,8 @@
   .m-header
     position: relative
     height: 44px
-    text-align: center
+    margin-left: 5px
+    // text-align: center
     color: $color-theme
     font-size: 0
     .icon
